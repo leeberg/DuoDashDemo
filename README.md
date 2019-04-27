@@ -24,7 +24,7 @@ The demo relies entirely on the great [DUO Powershell Module](https://github.com
 
 **Push MFA Auth Request to User**
 ![Using Controls to Push Auth](./img/pushauth.gif)
-![Auth On Android Phone](./img/auth.png)
+![Auth On Android Phone](./img/Auth.png)
 
 ## Usage
 

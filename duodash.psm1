@@ -16,7 +16,7 @@
     $Dashboard = New-UDDashboard -Title "Duo Dash Demo" -Pages $Pages -EndpointInitialization $BHEndpoints
 
     Try{
-        Start-UDDashboard -Dashboard $Dashboard -Port 10000 -Endpoint $AutoLoginEndpoint
+        Start-UDDashboard -Dashboard $Dashboard -Port 10000
     }
     Catch
     {
